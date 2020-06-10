@@ -5,3 +5,5 @@ Adding command hostname to show Computer Name
 Adding command hostname -I to show IP address
 
 Adding descriptions to the commands, adding echo lines to the output
+
+Cahnging webhook to point elastic IP
